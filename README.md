@@ -13,7 +13,7 @@
 - 💬 Ask me about **HTML CSS Vanilla Javascript Java**
 
 - 📫 How to reach me **sunnylalwani41@gmail.com**
-💼 Portfolio - [sunnylalwani41.github.io](https://sunnylalwani41.github.io/)
+- 💼 Portfolio - [sunnylalwani41.github.io](https://sunnylalwani41.github.io/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jL1A3NrkywKRL7eA8ds4My_VmClxLMlG/view?usp=sharing](https://drive.google.com/file/d/1jL1A3NrkywKRL7eA8ds4My_VmClxLMlG/view?usp=sharing)
 
