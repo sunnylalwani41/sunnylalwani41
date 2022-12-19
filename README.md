@@ -2,7 +2,7 @@
 <h3 align="center">A passionate java-backend developer from Jaipur, India</h3>
 
 ## Glad to see you here! 
-I'm a graduate in Civil Engineering 🎓 from Rajasthan Technical University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I received a degree in civil engineering 🎓 from Rajasthan Technical University, and I'm currently taking a Java-backend technology 🔨 course at Masai School 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://sunnylalwani41.github.io/)
 
