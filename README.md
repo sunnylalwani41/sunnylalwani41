@@ -62,7 +62,7 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
         <img src="https://www.pranshusinghbisht.online/assets/Skills-Logos/L_spring-boot-logo.png" width="50px" alt="Spring Boot"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png" alt = "Java"/>
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
         <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="50px" alt="SQL"/>
         
