@@ -20,7 +20,9 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
   <a href="https://www.linkedin.com/in/sunnylalwani41/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn" height="50" width="50">
   </a>
-
+<h3 align="center" text-decoration="none"><a href="https://aasimsyed97.github.io/" target="_blank" rel="noopener noreferrer" >
+    Visit my website
+</a></h3>
 </p>
 
 ## Group Project Work - <br/>
