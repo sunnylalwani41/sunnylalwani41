@@ -20,8 +20,8 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
   <a href="https://www.linkedin.com/in/sunnylalwani41/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn" height="50" width="50">
   </a>
-  <a href="https://www.hackerrank.com/sunnylalwani41" target="blank">
-    <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="My Hackerrank" height="50" width="50">
+  <a href="https://www.hackerrank.com/sunnylalwani41" target="blank" >
+    <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="My Hackerrank" height="60" width="60">
   </a>
 <h3 align="center" text-decoration="none"><a href="https://sunnylalwani41.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
@@ -64,6 +64,7 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="60" height="30"/>
         <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="55px" alt="JDBC"/>
+        <img src="https://user-images.githubusercontent.com/103615858/215685360-59bac7ff-f6c5-46a0-8c95-19ae79e467f1.jpg" width="40px" alt="Postman"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="35" height="44"/>
         <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
