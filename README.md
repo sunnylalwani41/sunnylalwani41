@@ -80,6 +80,10 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnylalwani41" alt="sunnylalwani41" /></a> </p>
 
+[![Sunny Lalwani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sunnylalwani41)](https://github.com/sunnylalwani41/github-readme-activity-graph)
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnylalwani41&show_icons=true&locale=en&layout=compact" alt="sunnylalwani41" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnylalwani41&show_icons=true&locale=en" alt="sunnylalwani41" /></p>
