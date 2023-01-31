@@ -21,7 +21,7 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn" height="50" width="50">
   </a>
   <a href="https://www.hackerrank.com/sunnylalwani41" target="blank" >
-    <img src="https://storage.googleapis.com/simplify-imgs/companies/ec953765-ae37-4784-811e-b63fad8eadd9/logo.png" alt="My Hackerrank" height="75px" width="75px" margin="50">
+    <img src="https://storage.googleapis.com/simplify-imgs/companies/ec953765-ae37-4784-811e-b63fad8eadd9/logo.png" alt="My Hackerrank" height="50px" width="50px" margin="50">
   </a>
 <h3 align="center" text-decoration="none"><a href="https://sunnylalwani41.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
