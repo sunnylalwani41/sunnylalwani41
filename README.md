@@ -59,11 +59,12 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-        <img src="https://www.pranshusinghbisht.online/assets/Skills-Logos/L_spring-boot-logo.png" width="50px" alt="Spring Boot"/>
+        <img src="https://static.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" width="50px" alt="Spring Boot"/>
         <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png" alt = "Java" width="60px"/>
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="60" height="30"/>
-        <img src = "https://www.pranshusinghbisht.online/assets/Skills-Logos/L_hibernate.svg" width="50px"/>
+        <img src = "https://hibernate.org/images/hibernate_icon_whitebkg.svg" width="50px"/>
+        <img width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
         <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="55px" alt="JDBC"/>
         <img src="https://user-images.githubusercontent.com/103615858/215685360-59bac7ff-f6c5-46a0-8c95-19ae79e467f1.jpg" width="40px" alt="Postman"/>
         <img src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/08/lombok.png?fit=800%2C284&ssl=1" width="80px" alt="Lombok"/>
@@ -72,7 +73,7 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
         <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-        <img width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
+        
         <img src = "https://media.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2147483647&v=beta&t=y372VIX1duemyS-L8Dopqyw4zhIP-XF6liv8gSFWXyw" width="50px"/>
         <img src = "https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" width="50px"/>
         <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
