@@ -64,14 +64,15 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
         <img src="https://www.pranshusinghbisht.online/assets/Skills-Logos/L_spring-boot-logo.png" width="50px" alt="Spring Boot"/>
         <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png" alt = "Java"/>
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-        <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="50px" alt="SQL"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="40" height="40"/>
+        <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="50px" alt="JDBC"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
+        <img width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
         <img src = "https://www.pranshusinghbisht.online/assets/Skills-Logos/L_hibernate.svg" width="50px"/>
         <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
         
        
 </p>
