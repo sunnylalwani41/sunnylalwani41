@@ -20,7 +20,10 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
   <a href="https://www.linkedin.com/in/sunnylalwani41/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn" height="50" width="50">
   </a>
-<h3 align="center" text-decoration="none"><a href="https://aasimsyed97.github.io/" target="_blank" rel="noopener noreferrer" >
+  <a href="https://www.hackerrank.com/sunnylalwani41" target="blank">
+    <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="My Hackerrank" height="50" width="50">
+  </a>
+<h3 align="center" text-decoration="none"><a href="https://sunnylalwani41.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3>
 </p>
@@ -53,21 +56,16 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
 
 - ⚡ Fun fact **I am fun**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sunnylalwani41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnylalwani41" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sunnylalwani41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunnylalwani41" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
         <img src="https://www.pranshusinghbisht.online/assets/Skills-Logos/L_spring-boot-logo.png" width="50px" alt="Spring Boot"/>
-        <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png" alt = "Java"/>
+        <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png" alt = "Java" width="60px"/>
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="40" height="40"/>
-        <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="50px" alt="JDBC"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/>
-        <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="Maven" width="60" height="30"/>
+        <img src="https://miro.medium.com/max/512/1*5ub7tcH230ZiT7SgBpRJkA.png" width="55px" alt="JDBC"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="35" height="44"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
         <img width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
         <img src = "https://www.pranshusinghbisht.online/assets/Skills-Logos/L_hibernate.svg" width="50px"/>
