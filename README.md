@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Lalwani</h1>
-<h3 align="center">A passionate java-backend developer from Jaipur, India</h3>
+<h3 align="center">A passionate Full-Stack Web developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.</h3>
 
 ## Glad to see you here! 
 I received a degree in civil engineering 🎓 from Rajasthan Technical University 🏛, and I'm currently taking a Java-backend technology 🔨 course at Masai School 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
@@ -45,9 +45,11 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
 
 - 🌱 I’m currently learning **Java**
 
+- 🌱 My interest and motivation **Aspiring Java Developer**
+
 - 👨‍💻 All of my projects are available at [https://github.com/sunnylalwani41](https://github.com/sunnylalwani41)
 
-- 💬 Ask me about **HTML CSS Vanilla Javascript Java JDBC MySQL**
+- 💬 Ask me about **HTML CSS Vanilla Javascript Java JDBC MySQL Hibernate Spring SpringBoot Swagger Postman Lombok AWS**
 
 - 📫 How to reach me **sunnylalwani41@gmail.com**
 
