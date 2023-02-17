@@ -29,6 +29,12 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
 </p>
 
 ## Group Project Work - <br/>
+* <b>Designed Rest API Online Sweet Store -</b> <br/>
+    Online Sweet Store is an e-commerce Rest API. It is perform all the basic fundamental CRUD operations on the basis of customer and admin.<br/>
+    Presentation Demo Link - https://drive.google.com/file/d/1mRO8TqCNOjjizl28NQfV4pLC7l2pLIhw/view <br/>
+    Github Repo Link - https://github.com/sunnylalwani41/Online_Sweet_Store_Rest_API.git <br/>
+    Area of Responsibility - Handle Order Items | Order Bill. <br/>
+
 * <b>Designed Cloned website of Sugar Cosmetic -</b> <br/>
     Sugar Cosmetic is an e-commerce website. It sells cosmetic items to customers.<br/>
     Deployed Link - https://stately-kashata-155b1e.netlify.app <br/>
