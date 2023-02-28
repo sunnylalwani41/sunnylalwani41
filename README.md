@@ -29,8 +29,8 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
 </p>
 
 ## Group Project Work - <br/>
-* <b>Designed Rest API Online Sweet Store -</b> <br/>
-    Online Sweet Store is an e-commerce Rest API. It is perform all the basic fundamental CRUD operations on the basis of customer and admin.<br/>
+* <b>Designed Rest API Baked Delight -</b> <br/>
+    Baked Delight is an Online Sweet Store Rest API. It is perform all the basic fundamental CRUD operations on the basis of customer and admin.<br/>
     Presentation Demo Link - [Video](https://drive.google.com/file/d/1mRO8TqCNOjjizl28NQfV4pLC7l2pLIhw/view) <br/>
     Github Repo Link - https://github.com/sunnylalwani41/Online_Sweet_Store_Rest_API.git <br/>
     Area of Responsibility - Handle Order Items | Order Bill. <br/>
