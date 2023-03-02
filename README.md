@@ -77,6 +77,7 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
         <img src="https://user-images.githubusercontent.com/103615858/215685360-59bac7ff-f6c5-46a0-8c95-19ae79e467f1.jpg" width="40px" alt="Postman"/>
         <img src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/08/lombok.png?fit=800%2C284&ssl=1" width="80px" alt="Lombok"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="40px" alt="Swagger"/>
+        <img src="https://sunnylalwani41.github.io/img/AWS.jpg" width="40px" alt="AWS"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="35" height="44"/>
         <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
