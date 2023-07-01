@@ -87,7 +87,7 @@ I received a degree in civil engineering 🎓 from Rajasthan Technical Universit
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="35" height="44"/>
         <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> -->
+<!--    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> -->
         <img src = "https://media.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2147483647&v=beta&t=y372VIX1duemyS-L8Dopqyw4zhIP-XF6liv8gSFWXyw" width="50px"/>
         <img src = "https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" width="50px"/>
         <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
